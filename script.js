@@ -4,7 +4,7 @@ const basicPrice = document.getElementById("basic-price");
 const professionalPrice = document.getElementById("professional-price");
 const masterPrice = document.getElementById("master-price");
 
-let plan = 1;
+let plan = 0;
 
 const monthly = function () {
   toggler.style.transform = "translate(90%)";
